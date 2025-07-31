@@ -1,0 +1,9 @@
+torch
+torchvision
+matplotlib
+trimesh
+pygltflib
+numpy
+seaborn
+gradio
+pillow
